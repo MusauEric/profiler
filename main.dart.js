@@ -75454,7 +75454,7 @@ A.ao1.prototype={
 $2(a,b){var s,r=null,q=this.a,p=q.a[b],o=A.c7(p.b.bi(0,"projects_id"),p.a)
 p=q.a[b]
 s=t.w
-return A.bz(r,A.ep(A.a([A.cP(A.c7(p.b.bi(0,"projectTitle"),p.a),2,B.ck,A.ap(a).p3.x,r,r),new A.jG(1,r),A.ci(new A.Bm(new A.aaK(o),r),a.J(s).f.a.b/6.5,a.J(s).f.a.a),new A.jG(1,r),A.aBd(A.cP("View App >>",r,r,A.fE(r,r,B.bW,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.ao0(q,this.b,b))],t.p),B.aK,B.J,B.F),B.k,B.Aw,r,r,r,r,r,r,new A.aM(20,20,20,20),r,r,r)},
+return A.bz(r,A.ep(A.a([A.cP(A.c7(p.b.bi(0,"projectTitle"),p.a),2,B.ck,A.ap(a).p3.x,r,r),new A.jG(1,r),A.ci(new A.Bm(new A.aaK(o),r),a.J(s).f.a.b/6.8,a.J(s).f.a.a),new A.jG(1,r),A.aBd(A.cP("View App >>",r,r,A.fE(r,r,B.bW,r,r,r,r,r,r,r,r,r,r,r,r,r,r,!0,r,r,r,r,r,r,r,r),r,r),new A.ao0(q,this.b,b))],t.p),B.aK,B.J,B.F),B.k,B.Aw,r,r,r,r,r,r,new A.aM(20,20,20,20),r,r,r)},
 $S:500}
 A.ao0.prototype={
 $0(){var s=this.a.a[this.c]
